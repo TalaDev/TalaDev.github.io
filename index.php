@@ -1,0 +1,221 @@
+
+<!DOCTYPE html>
+<html lang="fa">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content=" طلانتورک ، طلا ولی دوست داشتنی :)">
+    <meta name="keywords" content="طلانتورک, خرید فیلترشکن, خرید v2ray, خرید فیلترشکن پرسرعت, فیلترشکن رایگان, v2rayng, بهترین فیلترشکن,فیلترشکن جدید, فیلترشکن پرسرعت 2022">
+    <title>TalaNetwork</title>
+    <link href="https://cdn.fontcdn.ir/Font/Persian/Vazir/Vazir.woff2" rel="preload" as="font" crossorigin>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+    <style>
+        @font-face {
+            font-family: 'Vazir';
+            src: url('https://cdn.fontcdn.ir/Font/Persian/Vazir/Vazir.woff2') format('woff2'),
+                url('https://cdn.fontcdn.ir/Font/Persian/Vazir/Vazir.ttf') format('truetype');
+            font-weight: normal;
+            font-display: swap;
+        }
+
+        :root {
+            --animation-duration: 8s;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 85vh;
+            background-color: #1a1a1a;
+            font-family: 'Vazir', sans-serif;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: center;
+            background-color: #eee;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+            max-width: 90%;
+            z-index: 1;
+        }
+
+        .text {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-end;
+            text-align: right;
+            position:relative;
+            z-index: 2;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            color: #DA9100;
+            margin: 0;
+            margin-bottom: 10px;
+        }
+
+        p {
+            font-size: 1.2rem;
+            color: #333;
+            margin: 0;
+            margin-bottom: 20px;
+            line-height: 1.5;
+        }
+
+        img {
+            width: 100%;
+            max-width: 300px;
+            height: auto;
+            border-radius: 50%;
+            margin-bottom: 0;
+            margin-right: 20px;
+        }
+
+        @media screen and (max-width: 767px) {
+            .container {
+                flex-direction: column;
+            }
+
+            .text {
+                align-items: center;
+                text-align: center;
+            }
+
+            img {
+                margin-right: 0;
+                max-width: 200px;
+            }
+
+            p {
+                text-align: right;
+            }
+
+            .telegram-btn {
+                font-size: 1rem;
+                padding: 10px 20px;
+            }
+        }
+
+        .telegram-btn {
+            border-radius: 5px;
+            padding: 15px 25px;
+            font-size: 1.2rem;
+            color: white;
+            border: none;
+            box-shadow: 2px 2px 2px #888888;
+            display: inline-flex;
+            align-items: center;
+            text-decoration: none;
+            margin-left: 5px;
+            margin-right: 5px;
+        }
+
+        .telegram-btn-blue {
+            background-color: #0088cc;
+        }
+
+        .telegram-btn-green {
+            background-color: #4CAF50;
+        }
+
+        .t-icon {
+            margin-right: 5px;
+        }
+
+        .btn-container {
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .wave-container {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 120px;
+            overflow: hidden;
+            z-index: -1;
+        }
+
+        .wave {
+            position: absolute;
+            display: block;
+            width: 100%;
+            height: 100px;
+            background: linear-gradient(45deg, #da9100, #ffcc4d);
+            animation: wave-animation 5s linear infinite;
+        }
+
+        .wave:nth-child(2) {
+            animation-duration: 7s;
+            animation-delay: -3s;
+        }
+
+        @keyframes wave-animation {
+            0% {
+                transform: translateX(-100%);
+            }
+
+            100% {
+                transform: translateX(100%);
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <img src="https://bot.talanet.works/storage/main.png" alt="طراح بدون عنوان">
+        <div class="text">
+            <h1>ربات طلانتورک</h1>
+            <p>
+                نیم بها و امکان دریافت تست ✅
+                <br> قابلیت اتصال در تمامی دستگاه ها ✅
+                <br> تحویل خودکار و پنل کاربری شیک ✅
+                <br> بدون مشکل در اسپافتیفای و نتفلیکس ✅
+                <br> پشتیبانی و ضمانت کامل سرویس ✅
+                <br> اتصال در هرزمان حتی اینترانت ✅
+                <br> حذف تبلیغات برنامه ها    ✅
+                <br> سرعت و پایداری بالا در دانلود و آپلود ✅
+                <br> عبور از هرنوع تحریم داخلی و خارجی ✅
+            </p>
+
+            <div class="btn-container">
+                <a href="tg://resolve?domain=talanetwork" class="telegram-btn telegram-btn-blue">
+                    <i class="fab fa-telegram-plane t-icon"></i>
+                    عضویت در کانال تلگرام
+                </a>
+
+                <a href="tg://resolve?domain=talanetworkrobot" class="telegram-btn telegram-btn-green">
+                    <i class="fas fa-sign-in-alt t-icon"></i>
+                    ورود به ربات
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="particle-container">
+        <div style="--i:1" class="particle"></div>
+        <div style="--i:2" class="particle"></div>
+        <div style="--i:3" class="particle"></div>
+        <div style="--i:4" class="particle"></div>
+        <div style="--i:5" class="particle"></div>
+        <div style="--i:6" class="particle"></div>
+        <div style="--i:7" class="particle"></div>
+        <div style="--i:8" class="particle"></div>
+        <div style="--i:9" class="particle"></div>
+        <div style="--i:10" class="particle"></div>
+    </div>
+</body>
+
+</html>
